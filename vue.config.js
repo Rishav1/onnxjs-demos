@@ -1,4 +1,4 @@
 module.exports = {
-	  publicPath: "/",
+	  publicPath: "/onnxjs-demos",
 	  outputDir: "docs"
 };

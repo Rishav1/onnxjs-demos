@@ -41,7 +41,7 @@ export default {
   name: 'HelloWorld',
   data() {
     return {
-      msg: "Face Aging",
+      msg: "Jokerise",
       hasImage: false,
       image: null
     };
